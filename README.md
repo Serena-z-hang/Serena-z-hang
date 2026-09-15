@@ -16,7 +16,8 @@ Currently seeking **Summer 2027 internship opportunities** in Data Analytics, Bu
 
 ## Featured Project
 
-### NYC Taxi Demand & Operations Analysis
+### [NYC Taxi Demand & Operations Analysis](https://github.com/Serena-z-hang/nyc-mobility-demand-analysis)
+
 **SQL · Python · Tableau**
 
 Analyzed **3.5M+ NYC Yellow Taxi trips** to identify hourly demand patterns, zone-level pickup–dropoff asymmetry, and recurring operational patterns across high-volume NYC taxi zones.
@@ -27,7 +28,7 @@ Analyzed **3.5M+ NYC Yellow Taxi trips** to identify hourly demand patterns, zon
 - Validated recurring patterns at the day level rather than relying only on monthly aggregates
 - Built an interactive Tableau dashboard for operational exploration
 
-[View Interactive Tableau Dashboard](https://public.tableau.com/views/NYCTaxiDemandOperationsAnalysis/NYCTaxiDemandOperationsAnalysis)
+[View GitHub Repository](https://github.com/Serena-z-hang/nyc-mobility-demand-analysis) · [View Interactive Tableau Dashboard](https://public.tableau.com/views/NYCTaxiDemandOperationsAnalysis/NYCTaxiDemandOperationsAnalysis)
 
 ## Education
 
@@ -41,4 +42,5 @@ B.A. in English
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/serena-zhang-5b3546416/)
+- [GitHub](https://github.com/Serena-z-hang)
 - [Tableau Public](https://public.tableau.com/app/profile/serena.zhang6618/vizzes)
